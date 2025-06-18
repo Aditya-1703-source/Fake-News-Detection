@@ -87,7 +87,7 @@ from sklearn.metrics import classification_report
 print(classification_report(y_test, model.predict(X_test)))
 
 
-These visualizations help confirm that the model not only performs well numerically but also behaves as expected when applied to real-world data.
+These visualizations help confirm that the model not only performs well numerically but also behaves as expected when applied to real-world data....
 
 
 
